@@ -1,0 +1,3 @@
+Depurador para c/c++
+
+Instalar en /Min-GW/bin/

@@ -1,0 +1,3 @@
+Ejecutable para gestión de archivos .make
+
+Instalar en /Min-GW/bin/
