@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<data>
+
+	<graph>
+
+	<vertex index="1" type="spawn">
+	<x>1.5</x> <y>2.5</y> <z>-3</z>
+	</vertex>
+	<!-- More vertexes... -->
+	<vertex index="4" type="drain">
+	<x>1.5</x> <y>2.5</y> <z>-3</z>
+	</vertex>
+
+	<edge>
+	<vertex>1</vertex> <vertex>2</vertex>
+	</edge>
+	<edge>
+	<vertex>2</vertex> <vertex>4</vertex>
+	</edge>
+	<!-- More edges... -->
+
+	</graph>
+
+	<!-- Definition of virtual cameras -->
+</data>
